@@ -40,7 +40,6 @@ struct MountainOptionView: View {
                     .foregroundColor(.white)
                     .background(Color.pink).cornerRadius(10.0)
             })
-            
             Spacer()
         }
     }
